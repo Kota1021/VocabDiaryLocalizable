@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  ChineseMaster Simple
+
+  Created by 松本幸太郎 on 2023/05/19.
+  
+*/
+
+"CFBundleDisplayName" = "V-Diary";
+
+"1st" = "1st";
+"2nd" = "2nd";
+"3rd" = "3rd";
+"4th" = "4th";
+"5th" = "5th";
+"6th" = "6th";
+"7~9th" = "7~9th";
+"all" = "all" ;
+
+"Search"  = "Search";
+"Favorites" = "Favorites";
+"Notes" = "Notes";
+"History" = "History";
+"Statistics" = "Data";
+
+"placeholderText" = "dripping water penetrates the stone";
+
+"Report" = "Report";
+"Report this word" = "Report this word";
+"a problem is in" = "a problem is in";
+"this phrase is not what they really say" = "This phrase is not what they really say";
+"Many thanks" = "Thank you for helping make this app better";
+
+"reported" = "Reported";
+"report failed" = "Report Failed";
+"please contact with the developper" = "Please contact with the developper";
+
+"word" = "word";
+"pinyin" = "pinyin";
+"phrase" = "phrase";
+"phrase's pinyin" = "phrase's pinyin";
+"other" = "other";
+
+
+"in total searched" = "In total\nsearched";
+"word quantifier" = "words";
+"vocabulary" = "Vocabulary";
+"seen words" = "Seen";
+"noted words" = "Notes";
+
+"Today's Searches" = "Today \nsearched";
+"Searches" = "Searches";
+"ActionQuantifier" = "times";
+"Week" = "Week";
+"Month" = "Month";
+"Year" = "Year";
+
+"HSK Level" = "HSK Level";
+"HSK Standard" = "HSK Standard";
+
+"Seen" = "Seen";
+
+"Muted" = "Muted";
