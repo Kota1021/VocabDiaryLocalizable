@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  ChineseMaster Simple
+
+  Created by 松本幸太郎 on 2023/05/19.
+  
+*/
+
+
+"1st" = "1级";
+"2nd" = "2级";
+"3rd" = "3级";
+"4th" = "4级";
+"5th" = "5级";
+"6th" = "6级";
+"7~9th" = "7～9级";
+"all" = "全级";
+
+"Search" = "搜索";
+"Favorites" = "收藏";
+"Notes" = "笔记";
+"History" = "历史";
+"Statistics" = "统计";
+
+"placeholderText" = "滴水穿石：滴水穿石的坚韧。 →日积月累";
+
+"Report" = "报告";
+"Report this word" = "报告此词";
+"a problem is in" = "问题在于";
+"this phrase is not what they really say" = "短句不太自然";
+"Many thanks" = "感谢你的援助";
+
+"reported" = "报告成功";
+"report failed" = "报告失败";
+"please contact with the developper" = "请联系开发者";
+
+
+"word" = "词语";
+"pinyin" = "词语拼音";
+"phrase" = "短句";
+"phrase's pinyin" = "短句拼音";
+"other" = "其他";
+
+"in total searched" = "到现在\n搜查过";
+"word quantifier" = "个";
+"vocabulary" = "词汇量";
+"seen words" = "查看过";
+"noted words" = "笔记过";
+
+"Today's Searches" = "今天\n搜索了";
+"Searches" = "搜索量";
+"ActionQuantifier" = "次";
+"Week" = "7天";
+"Month" = "30天";
+"Year" = "一年";
+
+
+"HSK Standard" = "HSK的标准";
+"HSK Level" = "HSK Level";
+
+"Seen" = "看过";
+
+"Muted" = "静音";
