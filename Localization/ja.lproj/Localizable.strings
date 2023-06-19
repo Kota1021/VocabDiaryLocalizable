@@ -1,0 +1,60 @@
+/* 
+  Localizable.strings
+  ChineseMaster Simple
+
+  Created by 松本幸太郎 on 2023/05/19.
+  
+*/
+
+"1st" = "1級";
+"2nd" = "2級";
+"3rd" = "3級";
+"4th" = "4級";
+"5th" = "5級";
+"6th" = "6級";
+"7~9th" = "7~9級";
+"all" = "全級";
+
+"Search" = "検索";
+"Favorites" = "お気に入り";
+"Notes" = "メモ";
+"History" = "履歴";
+"Statistics" = "統計";
+
+"placeholderText" = "滴水穿石：雨垂れ石を穿つ。 →日积月累";
+
+"Report" = "報告する";
+"Report this word" = "報告";
+"a problem is in" = "問題は";
+"this phrase is not what they really say" = "フレーズが不自然";
+"Many thanks" = "改善へのご協力\nありがとうございます";
+
+"reported" = "報告しました";
+"report failed" = "報告に失敗しました";
+"please contact with the developper" = "開発者に連絡してください";
+
+"word" = "単語";
+"pinyin" = "単語の拼音";
+"phrase" = "フレーズ";
+"phrase's pinyin" = "フレーズの拼音";
+"other" = "その他";
+
+"in total searched" = "今までの\n検索個数";
+"word quantifier" = "個";
+"vocabulary" = "語彙数";
+"seen words" = "調べた数";
+"noted words" = "メモした数";
+
+"Today's Searches" = "今日の\n検索回数";
+"Searches" = "検索数";
+"ActionQuantifier" = "回";
+"Week" = "7日";
+"Month" = "30日";
+"Year" = "一年";
+
+"HSK Level" = "HSKレベル";
+"HSK Standard" = "HSKの要求語彙数";
+
+"Seen" = "見た回数";
+
+"Muted" = "消音";
