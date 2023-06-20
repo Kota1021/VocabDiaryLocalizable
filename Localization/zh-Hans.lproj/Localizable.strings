@@ -6,7 +6,6 @@
   
 */
 
-
 "1st" = "1级";
 "2nd" = "2级";
 "3rd" = "3级";
@@ -14,9 +13,9 @@
 "5th" = "5级";
 "6th" = "6级";
 "7~9th" = "7～9级";
-"all" = "全级";
+"all" = "全部";
 
-"Search" = "搜索";
+"Search" = "查询";
 "Favorites" = "收藏";
 "Notes" = "笔记";
 "History" = "历史";
@@ -24,39 +23,37 @@
 
 "placeholderText" = "滴水穿石：滴水穿石的坚韧。 →日积月累";
 
-"Report" = "报告";
-"Report this word" = "报告此词";
+"Report" = "发送报告";
+"Report this word" = "报告纠正";
 "a problem is in" = "问题在于";
 "this phrase is not what they really say" = "短句不太自然";
-"Many thanks" = "感谢你的援助";
+"Many thanks" = "感谢你的协助";
 
 "reported" = "报告成功";
 "report failed" = "报告失败";
 "please contact with the developper" = "请联系开发者";
 
-
-"word" = "词语";
-"pinyin" = "词语拼音";
+"word" = "单词";
+"pinyin" = "单词拼音";
 "phrase" = "短句";
 "phrase's pinyin" = "短句拼音";
 "other" = "其他";
 
-"in total searched" = "到现在\n搜查过";
+"in total searched" = "到现在\n查询过";
 "word quantifier" = "个";
 "vocabulary" = "词汇量";
 "seen words" = "查看过";
 "noted words" = "笔记过";
 
-"Today's Searches" = "今天\n搜索了";
-"Searches" = "搜索量";
+"Today's Searches" = "今天\n查询了";
+"Searches" = "查询量";
 "ActionQuantifier" = "次";
 "Week" = "7天";
 "Month" = "30天";
 "Year" = "一年";
 
-
-"HSK Standard" = "HSK的标准";
 "HSK Level" = "HSK Level";
+"HSK Standard" = "HSK标准词汇量";
 
 "Seen" = "看过";
 
