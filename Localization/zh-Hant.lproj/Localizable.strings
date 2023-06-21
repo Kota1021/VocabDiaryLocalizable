@@ -1,0 +1,60 @@
+/* 
+  Localizable.strings
+  ChineseMaster Simple
+
+  Created by 松本幸太郎 on 2023/05/19.
+  
+*/
+
+"1st" = "1級";
+"2nd" = "2級";
+"3rd" = "3級";
+"4th" = "4級";
+"5th" = "5級";
+"6th" = "6級";
+"7~9th" = "7～9級";
+"all" = "等級";
+
+"Search" = "查詢";
+"Favorites" = "收藏";
+"Notes" = "筆記";
+"History" = "歷史";
+"Statistics" = "統計";
+
+"placeholderText" = "滴水穿石：滴水穿石的堅韌。 →日積月累";
+
+"Report" = "送出報告";
+"Report this word" = "回報錯誤";
+"a problem is in" = "問題在於";
+"this phrase is not what they really say" = "短句不太自然";
+"Many thanks" = "感謝您的協助";
+
+"reported" = "回報成功";
+"report failed" = "回報失敗";
+"please contact with the developper" = "請聯絡開發者";
+
+"word" = "單字";
+"pinyin" = "單字拼音";
+"phrase" = "短句";
+"phrase's pinyin" = "短句拼音";
+"other" = "其他";
+
+"in total searched" = "到現在\n查詢過";
+"word quantifier" = "個";
+"vocabulary" = "單字量";
+"seen words" = "查看過";
+"noted words" = "作過筆記";
+
+"Today's Searches" = "今天\n查詢了";
+"Searches" = "查詢量";
+"ActionQuantifier" = "次";
+"Week" = "一星期";
+"Month" = "一個月";
+"Year" = "一年";
+
+"HSK Level" = "HSK Level";
+"HSK Standard" = "HSK標準單字量";
+
+"Seen" = "看過";
+
+"Muted" = "靜音";
