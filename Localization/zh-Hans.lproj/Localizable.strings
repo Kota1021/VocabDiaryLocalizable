@@ -13,7 +13,7 @@
 "5th" = "5级";
 "6th" = "6级";
 "7~9th" = "7～9级";
-"all" = "全部";
+"all" = "等级";
 
 "Search" = "查询";
 "Favorites" = "收藏";
@@ -27,7 +27,7 @@
 "Report this word" = "报告纠正";
 "a problem is in" = "问题在于";
 "this phrase is not what they really say" = "短句不太自然";
-"Many thanks" = "感谢你的协助";
+"Many thanks" = "感谢您的协助";
 
 "reported" = "报告成功";
 "report failed" = "报告失败";
@@ -43,13 +43,13 @@
 "word quantifier" = "个";
 "vocabulary" = "词汇量";
 "seen words" = "查看过";
-"noted words" = "笔记过";
+"noted words" = "作过笔记";
 
 "Today's Searches" = "今天\n查询了";
 "Searches" = "查询量";
 "ActionQuantifier" = "次";
-"Week" = "7天";
-"Month" = "30天";
+"Week" = "一星期";
+"Month" = "一个月";
 "Year" = "一年";
 
 "HSK Level" = "HSK Level";
